@@ -7,23 +7,23 @@ Welcome to my Business Intelligence Portfolio! This repository showcases my data
 
 <table align="center">
   <tr>
-    <td align="center">
+	<td align="center">
       <a href="https://github.com/arshrandhawa/portfolio/blob/main/README.md">
         <img src="https://img.shields.io/badge/-Homepage-gray?style=for-the-badge&logo=github&scale=2" alt="Homepage">
       </a>
     </td>
     <td align="center">
-      <a href="#data-analyst-projects">
+      <a href="https://github.com/arshrandhawa/DataAnalystPortfolio/blob/main/README.md">
         <img src="https://img.shields.io/badge/-Data_Analyst-green?style=for-the-badge&logo=sqlite&scale=4" alt="Data Analyst">
       </a>
     </td>
     <td align="center">
-      <a href="#data-engineering">
+      <a href="https://github.com/arshrandhawa/DataEngineerPortfolio/blob/main/README.md">
         <img src="https://img.shields.io/badge/-Data_Engineering-orange?style=for-the-badge&logo=docker&scale=4" alt="Data Engineering">
       </a>
     </td>
     <td align="center">
-      <a href="#data-science">
+      <a href="https://github.com/arshrandhawa/DataScientistPortfolio/blob/main/README.md">
         <img src="https://img.shields.io/badge/-Data_Science-purple?style=for-the-badge&logo=scikit-learn&scale=4" alt="Data Science">
       </a>
     </td>
