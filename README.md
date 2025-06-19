@@ -1,10 +1,7 @@
-  </tr>
-  
 # Business Intelligence Portfolio 
 
-# [LINK TO TABLEAU PUBLIC](https://public.tableau.com/app/profile/arshdeep.randhawa6351/vizzes)
-
-Welcome to my Tableau Portfolio! This repository showcases my data visualization projects, highlighting my ability to analyze and present insights effectively using Tableau.
+Welcome to my Business Intelligence Portfolio! This repository showcases my data visualization projects, highlighting my ability to analyze and present insights effectively using Business Intelligence tools. 
+[Tableau Portfolio](https://public.tableau.com/app/profile/arshdeep.randhawa6351/vizzes)
 
 ## Explore My Projects by Category</h2>
 
@@ -40,7 +37,7 @@ Welcome to my Tableau Portfolio! This repository showcases my data visualization
 - **Key Insights:** Identified popular genres, release year trends, and country-specific content preferences.
 - **Tools Used:** Tableau
 - **[View Dashboard](https://public.tableau.com/app/profile/arshdeep.randhawa6351/viz/NetflixAnalysis_17389690500210/Dashboard1)**
-![Netflix Dashboard](https://github.com/arshrandhawa/portfolio/blob/main/Tableau/Netflix%20Dashboard.png?raw=true)
+![Netflix Dashboard](https://github.com/arshrandhawa/BusinessIntelligencePortfolio/blob/main/Netflix%20Dashboard.png)
 
 ### 2. HR Analytics Dashboard (Tableau)
 - **Objective:** Developed an HR analytics dashboard to visualize employee count, attrition rates, workforce demographics, and satisfaction survey data.
@@ -50,7 +47,7 @@ Welcome to my Tableau Portfolio! This repository showcases my data visualization
   - Travel preference trends based on gender.
 - **Tools Used:** Tableau
 - **[View Dashboard](https://public.tableau.com/app/profile/arshdeep.randhawa6351/viz/NetflixAnalysis_17389690500210/Dashboard1)**
-![Image Description](https://github.com/arshrandhawa/portfolio/blob/main/Tableau/HR%20Analytics%20Dashboard.png?raw=true)
+![HR Analytics Dashboard](https://github.com/arshrandhawa/BusinessIntelligencePortfolio/blob/main/HR%20Analytics%20Dashboard.png)
 
 More projects coming soon! Stay tuned.
 
