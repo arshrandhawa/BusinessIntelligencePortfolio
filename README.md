@@ -11,8 +11,8 @@ Welcome to my Tableau Portfolio! This repository showcases my data visualization
 <table align="center">
   <tr>
     <td align="center">
-      <a href="#business-intelligence">
-        <img src="https://img.shields.io/badge/-Business_Intelligence-blue?style=for-the-badge&logo=tableau&scale=4" alt="Business Intelligence">
+      <a href="https://github.com/arshrandhawa/portfolio/blob/main/README.md">
+        <img src="https://img.shields.io/badge/-Homepage-gray?style=for-the-badge&logo=github&scale=2" alt="Homepage">
       </a>
     </td>
     <td align="center">
