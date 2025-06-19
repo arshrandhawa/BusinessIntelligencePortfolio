@@ -1,8 +1,37 @@
-# Tableau Portfolio 
+  </tr>
+  
+# Business Intelligence Portfolio 
 
 # [LINK TO TABLEAU PUBLIC](https://public.tableau.com/app/profile/arshdeep.randhawa6351/vizzes)
 
 Welcome to my Tableau Portfolio! This repository showcases my data visualization projects, highlighting my ability to analyze and present insights effectively using Tableau.
+
+## Explore My Projects by Category</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="#business-intelligence">
+        <img src="https://img.shields.io/badge/-Business_Intelligence-blue?style=for-the-badge&logo=tableau&scale=4" alt="Business Intelligence">
+      </a>
+    </td>
+    <td align="center">
+      <a href="#data-analyst-projects">
+        <img src="https://img.shields.io/badge/-Data_Analyst-green?style=for-the-badge&logo=sqlite&scale=4" alt="Data Analyst">
+      </a>
+    </td>
+    <td align="center">
+      <a href="#data-engineering">
+        <img src="https://img.shields.io/badge/-Data_Engineering-orange?style=for-the-badge&logo=docker&scale=4" alt="Data Engineering">
+      </a>
+    </td>
+    <td align="center">
+      <a href="#data-science">
+        <img src="https://img.shields.io/badge/-Data_Science-purple?style=for-the-badge&logo=scikit-learn&scale=4" alt="Data Science">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Projects
 
