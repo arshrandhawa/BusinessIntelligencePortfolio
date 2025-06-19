@@ -1,4 +1,4 @@
-# Business Intelligence Portfolio 
+# Business Intelligence Portfolio - Arshdeep Randhawa
 
 Welcome to my Business Intelligence Portfolio! This repository showcases my data visualization projects, highlighting my ability to analyze and present insights effectively using Business Intelligence tools. 
 [Tableau Portfolio](https://public.tableau.com/app/profile/arshdeep.randhawa6351/vizzes)
